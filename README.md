@@ -1,6 +1,10 @@
-<p align="center" style="display: flex;justify-content: center;align-items: center;">
+<p align="center" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png">
-    <span>+</span>
+    <span> + </span>
     <img alt="logo" src="./doc/ArcoDesign.png" style="width:60px">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v3.8.9</h1>
